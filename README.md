@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+A+Full+Stack+web+developper;A+Computer+science+student;With+strong+mathematics+background;A+student+researcher;Experienced;in;data;management...;And;software;engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+A+Full+Stack+web+developper;A+Computer+science+student;With+strong+mathematics+background;A+student+researcher;Experienced+in+data+management...;And+software+engineering)](https://git.io/typing-svg)
 
 ---
 
