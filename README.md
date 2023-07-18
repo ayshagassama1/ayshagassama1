@@ -7,7 +7,7 @@
 - 🎓Studies:
   * Master in computer science at Clermont Auvergne University (Clermont-Ferrand, France)
   * Master in data management and software engineering at Gaston Berger University (Saint-Louis, Senegal)
-  * Bachelor in science and technology - option computer science
+  * Bachelor in science and technology - option computer science (Saint-Louis, Senegal)
 - 👯 I’m looking to collaborate on data mining and machine learning
 - 📫 How to reach me: ayshagassama1@gmail.com OR on telegram:@NAG_N_NAG
 - 😄 Pronouns: She/Her
