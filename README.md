@@ -9,7 +9,7 @@
   * Master in data management and software engineering at Gaston Berger University (Saint-Louis, Senegal)
   * Bachelor in science and technology - option computer science (Saint-Louis, Senegal)
 - 👯 I’m looking to collaborate on data mining and machine learning
-- 📫 How to reach me: ndeye.aissatou.sn@gmail.com
+- 📫 How to reach me: ndeye.aissatou.gassama.sn@gmail.com
 - 😄 Pronouns: She/Her
 - I’m looking for a position as a junior data scientist/engineer
 
