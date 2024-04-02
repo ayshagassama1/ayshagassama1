@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on Multi-view machine learning algorithms
+- 🔭 I’m currently working on Multi-view/Multi-modal machine learning algorithms
 - 🎓Studies:
   * Master in computer science at Clermont Auvergne University (Clermont-Ferrand, France)
   * Master in data management and software engineering at Gaston Berger University (Saint-Louis, Senegal)
@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on data mining and machine learning
 - 📫 How to reach me: ndeye.aissatou.gassama.sn@gmail.com
 - 😄 Pronouns: She/Her
-- I’m looking for a position as a junior data scientist/engineer
 
 ---
 
