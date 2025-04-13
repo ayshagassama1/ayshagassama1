@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+A+Software+engineer;Machine+learning+enthusiast...)](https://git.io/typing-svg)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayshagassama1.ayshagassama1)
+
 ---
 
 - 🔭 I’m currently working on Multi-view/Multi-modal machine learning algorithms
