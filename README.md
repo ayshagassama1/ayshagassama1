@@ -37,6 +37,10 @@ Thorough full-stack development, robust backend solutions, seamless Vue.js front
 - [View my Malt profile](https://www.malt.fr/profile/ndeyeaissatougassama)
 
 ---
+## Languages
+- French (native)  
+- English (professional proficiency)
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ayshagassama1)](https://git.io/streak-stats)
 
