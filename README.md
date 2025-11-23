@@ -70,5 +70,12 @@ Thorough full-stack development, robust backend solutions, seamless Vue.js front
     <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/langfr-220px-Postgresql_elephant.svg.png"  alt="postgres" width="40" height="40" /></a>
     <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/langfr-110px-New_Power_BI_Logo.svg.png"  alt="powerbi" width="40" height="40" /></a>
     <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/langfr-220px-Oracle_logo.svg.png"  alt="oracle" width="40" height="20" /></a>
-  
+
+    <!-- Ajout Laravel -->
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="laravel" width="48" height="48"/> </a>
+    <!-- Ajout Vue.js -->
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vuejs" width="48" height="48"/> </a>
+    <!-- Icône IA (OpenAI) -->
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/openai.png" alt="AI" width="48" height="48"/> </a>
 </p>
+
