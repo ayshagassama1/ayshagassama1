@@ -4,15 +4,37 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayshagassama1.ayshagassama1)
 
 ---
+# Full-Stack Developer | Backend | AI | Vue.js | Laravel | Python
 
-- 🔭 I’m currently working on Multi-view/Multi-modal machine learning algorithms
-- 🎓Studies:
-  * Master in computer science at Clermont Auvergne University (Clermont-Ferrand, France)
-  * Master in data management and software engineering at Gaston Berger University (Saint-Louis, Senegal)
-  * Bachelor in science and technology - option computer science (Saint-Louis, Senegal)
-- 👯 I’m looking to collaborate on data mining and machine learning
-- 📫 How to reach me: ndeye.aissatou.gassama.sn@gmail.com
-- 😄 Pronouns: She/Her
+## Background
+Dual training in computer science:
+- MSc in Data Science  
+- Master’s in Data Management and Software Engineering  
+Combined expertise in software development and data/AI.
+
+## Profile
+I am a freelance full-stack developer specializing in backend development, artificial intelligence (AI), and modern web applications. I help companies design and deploy high-performance, scalable, and secure web solutions. My main tech stack revolves around Laravel, Vue.js, and Python, which I use to build reliable and maintainable applications focused on performance.
+
+## Skills & Achievements
+- Advanced backend development with Laravel and Python.  
+- Dynamic and user-friendly interfaces with Vue.js.  
+- Design and implementation of robust, secure APIs.  
+- Full-stack deployment in cloud environments.  
+- AI/Data projects: machine learning, NLP, data analysis, and automation.  
+- Performance optimization, continuous integration, and software best practices.  
+- End-to-end web application development.
+
+Experience in demanding environments across Luxembourg, France, and Senegal—blending IT, data, consultancy, and software engineering.
+
+## Collaboration
+I prioritize remote or hybrid projects, especially in the Grand Est and Luxembourg regions, with occasional travel possible elsewhere in France for short-term missions. Fast replies on [Malt](https://www.malt.fr/profile/ndeyeaissatougassama); tailored support for each project.
+
+## What I Bring to Your Projects
+Thorough full-stack development, robust backend solutions, seamless Vue.js frontend integration, and actionable, sustainable AI solutions. My goal: deliver robust, maintainable applications aligned with your business needs.
+
+## Contact
+- [Schedule a meeting on Calendly](https://calendly.com/ndeye-aissatou-gassama-sn/30min)  
+- [View my Malt profile](https://www.malt.fr/profile/ndeyeaissatougassama)
 
 ---
 
