@@ -24,7 +24,7 @@ I am a freelance full-stack developer specializing in backend development, artif
 - Performance optimization, continuous integration, and software best practices.  
 - End-to-end web application development.
 
-Experience in demanding environments across Luxembourg, France, and Senegal—blending IT, data, consultancy, and software engineering.
+Experience in demanding environments across Luxembourg, France, and Senegal, blending IT, data, consultancy, and software engineering.
 
 ## Collaboration
 I prioritize remote or hybrid projects, especially in the Grand Est and Luxembourg regions, with occasional travel possible elsewhere in France for short-term missions. Fast replies on [Malt](https://www.malt.fr/profile/ndeyeaissatougassama); tailored support for each project.
