@@ -13,7 +13,7 @@ Dual training in computer science:
 Combined expertise in software development and data/AI.
 
 ## Profile
-I am a freelance full-stack developer specializing in backend development, artificial intelligence (AI), and modern web applications. I help companies design and deploy high-performance, scalable, and secure web solutions. My main tech stack revolves around Laravel, Vue.js, and Python, which I use to build reliable and maintainable applications focused on performance.
+I am a freelance full-stack developer specializing in backend development, artificial intelligence, and modern web applications. I help companies design and deploy high-performance, scalable, and secure web solutions. My main tech stack revolves around Laravel, Vue.js, and Python, which I use to build reliable and maintainable applications focused on performance.
 
 ## Skills & Achievements
 - Advanced backend development with Laravel and Python.  
